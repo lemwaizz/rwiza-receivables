@@ -1,0 +1,12 @@
+order_id,cust_id,customer_name,product,qty_bags,unit_price_rwf,order_date,promised_date
+ORD-1039,C-008,Musanze Agrovet,NPK 17-17-17,150,32000,2026-03-02,2026-03-09
+ORD-1040,C-014,Karongi Agrodealers,Urea 46%,200,41000,2026-03-03,2026-03-12
+ORD-1041,C-021,Huye Seed Centre,Maize seed H629,80,18500,2026-03-05,2026-03-11
+ORD-1042,C-008,Musanze Agrovet,NPK 17-17-17,100,32000,2026-03-06,2026-03-13
+ORD-1042,C-008,Musanze Agrovet,Urea 46%,50,41000,2026-03-06,2026-03-13
+ORD-1043,C-041,Karongi Agro Dealers Ltd,Urea 46%,60,39500,2026-03-09,2026-03-16
+ORD-1044,C-033,Rubavu Cross-Border Traders,NPK 17-17-17,300,28,2026-03-10,2026-03-20
+ORD-1045,C-021,Huye Seed Centre,Maize seed H629,40,18500,2026-03-12,2026-03-19
+ORD-1046,C-052,Nyagatare Farmers Union,Urea 46%,250,41000,2026-03-13,2026-03-23
+ORD-1047,C-008,Musanze Agrovet,Maize seed H629,25,19000,2026-03-16,2026-03-23
+ORD-1048,C-052,Nyagatare Farmers Union,NPK 17-17-17,120,32000,2026-03-18,2026-03-27

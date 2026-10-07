@@ -1,0 +1,6 @@
+[theme]
+# Only the accent is set, so the app still follows each viewer's light/dark preference.
+primaryColor = "#2e7d4f"
+
+[browser]
+gatherUsageStats = false
